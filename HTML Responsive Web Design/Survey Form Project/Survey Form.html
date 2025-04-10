@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Survey Form</title>
+    <link rel="stylesheet" type="text/css" href="styles.css" />
+  </head>
+  <body>
+    <h1 id="title"> Survey Form
+      </h1>
+      <p id="description"> Please enter all these things
+        </p>
+        <form id="survey-form">
+          <fieldset id="1"><label id="name-label">Name: 
+          <input id="name" type="name" required placeholder="Input Name" class="block"/></label>
+          <label id="email-label">Email: 
+          <input id="email" type="email" required placeholder="Input Email"/></label>
+          <label id="number-label">Phone Number: <input id="number" type="number" min="0" max="9999999999" placeholder="Input Number"/></label>
+          </fieldset>
+<fieldset>
+<label>What is your Quest?<select id="dropdown">
+  <option value=""> (select one)</option>
+  <option value="1">To Seek The Holy Grail</option>
+  </select>
+  What is your favorite color?<input type="radio" name="color"value="yellow"/> Yellow
+ <input type="radio" name="color"value="blue"/> Blue 
+</fieldset>
+<fieldset>Check all that apply:
+  <input type="checkbox" value="Man">Man
+  <input type="checkbox" value="Woman">Woman
+  <input type="checkbox" value="Child">Child
+  <input type="checkbox" value="All">All
+  <input type="checkbox" value="None">None
+  </fieldset>
+<fieldset>Provide your credit card number: <textarea></textarea>
+  </fieldset>
+  <input type="submit" id="submit"value="submit"/>
+        </form>
+    </body>
+    </html>
