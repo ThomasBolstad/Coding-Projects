@@ -62,6 +62,7 @@ y_coord = ball._Projectile__calculate_y_coordinate(4)
 print(y_coord)
 coordinates = ball.calculate_all_coordinates()
 print(coordinates)
+print()
 
 
         
