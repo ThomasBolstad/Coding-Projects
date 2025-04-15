@@ -12,8 +12,8 @@ A collection of projects from freeCodeCamp certifications in HTML/CSS and Python
 ## Python Projects
 
 ### Certification Projects
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/ThomasBolstad/Coding-Projects/blob/main/Scientific%20Computing%20w%20Python%20Certification/1.%20Arithmetic%20Formatter%20Project/Arithmetic%20Formatter%20Project.ipynb)
-- **[Arithmetic Formatter](Scientific%20Computing%20w%20Python%20Certification/1.%20Arithmetic%20Formatter%20Project/1.%20Arithmetic%20Formatter%20Project.py)**: Formats arithmetic problems vertically for easy reading.
+- **[Arithmetic Formatter](Scientific%20Computing%20w%20Python%20Certification/1.%20Arithmetic%20Formatter%20Project/1.%20Arithmetic%20Formatter%20Project.py)**: Formats arithmetic problems vertically for easy reading. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ThomasBolstad/Coding-Projects/blob/main/Scientific%20Computing%20w%20Python%20Certification/1.%20Arithmetic%20Formatter%20Project/Arithmetic%20Formatter%20Project.ipynb)
+
 - **[Time Calculator](Scientific%20Computing%20w%20Python%20Certification/2.%20Time%20Calculator%20Project/Time%20Calculator%20Project.py)**: Adds time durations and handles AM/PM conversion.
 - **[Budget App](Scientific%20Computing%20w%20Python%20Certification/3.%20Build%20a%20Budget%20App%20Project/Build%20a%20Budget%20App%20Project.py)**: Tracks income and expenses using object-oriented programming.
 - **[Polygon Area Calculator](Scientific%20Computing%20w%20Python%20Certification/4.%20Build%20a%20Polygon%20Area%20Calculator%20Project)**: Calculates areas of shapes using classes.
