@@ -1,3 +1,6 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/ThomasBolstad/Coding-Projects/edit/main/Scientific%20Computing%20w%20Python%20Certification/1.%20Arithmetic%20Formatter%20Project/Coursework/String%20Manipulation%20w%20Cipher.py#L1C0)
+
+
 text = 'mrttaqrhknsw ih puggrur'
 custom_key = 'happycoding'
 
