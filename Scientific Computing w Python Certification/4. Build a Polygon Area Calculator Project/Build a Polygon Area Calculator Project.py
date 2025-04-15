@@ -117,3 +117,4 @@ print(sq.get_picture())
 
 print('The Square fits inside the Rectangle', rect.get_amount_inside(sq),'times')
 
+print('Thanks!')
