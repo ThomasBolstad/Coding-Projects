@@ -8,11 +8,11 @@ This repository contains Python projects focused on core programming skills, pro
 
 | Project | Description | Skills Used |
 |:--------|:------------|:------------|
-| [Arithmetic Formatter](./Scientific%20Computing%20w%20Python%20Certification/1.%20Arithmetic%20Formatter%20Project) | Formats arithmetic problems vertically for easy reading. | String Manipulation |
-| [Time Calculator](./Scientific%20Computing%20w%20Python%20Certification/2.%20Time%20Calculator%20Project) | Adds time durations and manages AM/PM conversion. | String Parsing |
-| [Budget App](./Scientific%20Computing%20w%20Python%20Certification/3.%20Build%20a%20Budget%20App%20Project) | Tracks income and expenses, visualizes spend by category. | OOP, Matplotlib |
-| [Polygon Area Calculator](./Scientific%20Computing%20w%20Python%20Certification/4.%20Build%20a%20Polygon%20Area%20Calculator%20Project) | Calculates areas of polygons with classes. | OOP |
-| [Probability Calculator](./Scientific%20Computing%20w%20Python%20Certification/5.%20Build%20a%20Probability%20Calculator%20Project) | Simulates probability experiments. | Randomness, Simulation |
+| [Arithmetic Formatter](./1.%20Arithmetic%20Formatter%20Project) | Formats arithmetic problems vertically for easy reading. | String Manipulation |
+| [Time Calculator](./2.%20Time%20Calculator%20Project) | Adds time durations and manages AM/PM conversion. | String Parsing |
+| [Budget App](./3.%20Build%20a%20Budget%20App%20Project) | Tracks income and expenses, visualizes spend by category. | OOP, Matplotlib |
+| [Polygon Area Calculator](./4.%20Build%20a%20Polygon%20Area%20Calculator%20Project) | Calculates areas of polygons with classes. | OOP |
+| [Probability Calculator](./5.%20Build%20a%20Probability%20Calculator%20Project) | Simulates probability experiments. | Randomness, Simulation |
 
 ---
 
