@@ -10,7 +10,7 @@ This repository contains Python projects focused on core programming skills, pro
 |:--------|:------------|:------------|
 | [Arithmetic Formatter](./1.%20Arithmetic%20Formatter%20Project) | Formats arithmetic problems vertically for easy reading. | String Manipulation |
 | [Time Calculator](./2.%20Time%20Calculator%20Project) | Adds time durations and manages AM/PM conversion. | String Parsing |
-| [Budget App](./3.%20Build%20a%20Budget%20App%20Project) | Tracks income and expenses, visualizes spend by category. | OOP, Matplotlib |
+| [Budget App](./3.%20Build%20a%20Budget%20App%20Project) | Tracks income and expenses, visualizes spend by category. | OOP |
 | [Polygon Area Calculator](./4.%20Build%20a%20Polygon%20Area%20Calculator%20Project) | Calculates areas of polygons with classes. | OOP |
 | [Probability Calculator](./5.%20Build%20a%20Probability%20Calculator%20Project) | Simulates probability experiments. | Randomness, Simulation |
 
