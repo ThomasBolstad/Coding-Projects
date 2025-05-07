@@ -38,7 +38,6 @@ This repository contains Python projects focused on core programming skills, pro
 
 - Python 3
 - Object-Oriented Programming
-- Matplotlib (for charting)
 - Algorithmic thinking
 
 ---
